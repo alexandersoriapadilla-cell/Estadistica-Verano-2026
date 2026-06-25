@@ -125,3 +125,5 @@ Based on the dataset design, the following trends may be observed:
 This dataset is synthetic and intended for educational and illustrative purposes. The relationships represented in the data may not reflect real-world scenarios.
 
 **License:** Anyone is free to use, share, and distribute the dataset.
+
+La base de datos esta [aquí](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
